@@ -1,6 +1,9 @@
 # OpenFlexure Microscope – DU Sensors & Innovation
 
-This repository documents my work on building and studying the **OpenFlexure Microscope** as part of the **DU Sensors & Innovation Technologies** programme at Université Paris-Saclay.
+This repository documents our work on building and studying the **OpenFlexure Microscope** as part of the **DU Sensors & Innovation Technologies** programme at Université Paris-Saclay.
+We are working in a Group of two. I, Aqib Mushtaq, and Yahiya Abdou. 
+aqib.mushtaq@universite-paris-saclay.fr  
+yahiya-abdou.maiga@universite-paris-saclay.fr
 
 ## Goals
 
@@ -16,7 +19,12 @@ This repository documents my work on building and studying the **OpenFlexure Mic
 
 ## Repository structure
 
-openflexure-microscope-du-sensor-innovation/
+- `docs/` – Explanations, notes, and theory
+- `logs/` – Daily progress log
+- `3d_printing/` – Printer settings, test results, photos
+- `hardware/` – Parts, assembly notes, photos
+- `misc/` – Questions and extra notes
+- openflexure-microscope-du-sensor-innovation/
 ├── README.md
 ├── docs/
 │   ├── Overview.md
@@ -33,4 +41,5 @@ openflexure-microscope-du-sensor-innovation/
 └── hardware/
     ├── bill_of_materials.md
     └── assembly_photos/
+
 
