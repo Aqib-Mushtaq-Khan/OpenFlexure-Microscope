@@ -24,7 +24,7 @@ yahiya-abdou.maiga@universite-paris-saclay.fr
 - `3d_printing/` – Printer settings, test results, photos
 - `hardware/` – Parts, assembly notes, photos
 - `misc/` – Questions and extra notes
-- openflexure-microscope-du-sensor-innovation/
+## openflexure-microscope-du-sensor-innovation/
 ├── README.md
 ├── docs/
 │   ├── Overview.md
@@ -41,5 +41,6 @@ yahiya-abdou.maiga@universite-paris-saclay.fr
 └── hardware/
     ├── bill_of_materials.md
     └── assembly_photos/
+
 
 
