@@ -16,6 +16,8 @@ yahiya-abdou.maiga@universite-paris-saclay.fr
 
 - OpenFlexure Microscope Manual (v7.0.0-beta5)  
   https://build.openflexure.org/openflexure-microscope/v7.0.0-beta5/manual_microscope/
+ - OpenFlexure low-cost Microscope
+  https://build.openflexure.org/openflexure-microscope/v7.0.0-beta5/low_cost_microscope.html
 
 ## Repository structure
 
